@@ -14,9 +14,6 @@ cp .streamlit/secrets.toml.example .streamlit/secrets.toml
 streamlit run solar_analysis_app.py
 ```
 
-### Live Demo
-[Access the live application here](https://huggingface.co/spaces/your-space/solar-analysis-tool)
-
 ## 🌟 Features
 - AI-powered rooftop image analysis
 - Comprehensive solar system sizing
